@@ -49,7 +49,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-4">
             <h3 className="text-2xl font-bold bg-gradient-to-r from-blue-400 via-purple-500 to-teal-400 bg-clip-text text-transparent">
-              Sumit Singh
+              Sumit Singh Rajput
             </h3>
             <p className="text-gray-400 leading-relaxed">
               Full Stack Developer passionate about creating innovative solutions and bringing ideas to life through code.
